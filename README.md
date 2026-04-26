@@ -1,30 +1,30 @@
 
-![Unity Coin](Logo.jpg)
-
 # 🏗 Unity State Reserve ($UNIT) Protocol
+### Official Blueprint for the Ampino 10-Flat HQ
 
-### The Digital Foundation for the Ampino Professional Studio & Headquarters
+![Logo](Logo.jpg)
+
+## 🛰 The Vision: From Craftsmanship to Architecture
+The Unity State Reserve ($UNIT) is an immutable sovereign protocol built to fund the future of Ampino music. By bypassing traditional banking systems, we use the Token-2022 standard to build physical landmarks from digital capital.
 
 ---
 
-## 🏛 Project Vision
-The Unity State Reserve is a decentralized financial engine designed to fund the construction and operation of the Ampino Professional Studio. By utilizing the Solana Token-2022 standard, we have built a self-sustaining ecosystem where every transaction contributes to the physical growth of our creative headquarters.
+## 🏛 The Ampino HQ Blueprint
+Every transfer of $UNIT fuels the construction of this 10-flat architectural landmark.
 
 ![Ampino HQ](Blueprint.jpg)
 
----
-
-## 🛡 Protocol Laws (Immutable)
-To ensure the total security of our investors and the long-term viability of the HQ, the following laws are hard-coded into the blockchain:
-
-* Fixed Supply: 49 Billion $UNIT (1 Billion burned). No more can ever be minted.
-* Revoked Authorities: Mint and Freeze authorities have been permanently removed.
-* The Whale Shield: A maximum transaction fee cap of 5,000 $UNIT to protect large-scale contributors.
-* Self-Funding Loop: A permanent 1% tax on transfers to fund the Ampino Treasury.
+### Floor Plan:
+* Levels 1-3: High-end Recording Studios & Sound Engineering Suites.
+* Levels 4-9: Professional Residencies for Ampino Artists & Web3 Architects.
+* Level 10: The Unity State Command Center.
 
 ---
 
-## 🛰 Digital Embassy
-* Mint ID: Ewc5ZASDPvYTPBRz9MZ4xhQdYMrdwxkrSAjfnZU8b6oN
-* Network: Solana Mainnet (Token-2022)
-* Status: Phase 3 (On-Chain Identity Verified)
+## 🛡 The Protocol Law (Immutable)
+- Mint Authority: Revoked (Supply locked at 49 Billion).
+- Freeze Authority: Revoked (Permissionless).
+- Self-Funding Engine: 1% Transfer Tax for Ampino Construction.
+- Whale Shield: 5,000 $UNIT tax cap (Active Epoch 964).
+
+"Rise from the dust—the foundation is laid."
